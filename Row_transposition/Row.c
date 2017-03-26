@@ -7,7 +7,7 @@ int main()
   char matrix[10][10],plainText[50];
   printf("Please input plaintext: ");
   gets(plainText);
-  printf("encrypted text: ");
+  printf("encrypt key: ");
   gets(key);
 
 
