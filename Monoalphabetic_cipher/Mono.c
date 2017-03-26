@@ -17,7 +17,6 @@ int main()
     int Num = 0;
 
 
-    //构造置换表
     for (int i = 0; Key[i]; ++i)
     {
         if (Key[i] == ' ')
