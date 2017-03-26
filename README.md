@@ -2,15 +2,22 @@
 **HW1 of Introduction to Information Security**
 
 ##作業完成度 4/6.
-1.Caesar：         Done；
 
-2.Monoalphabetic： Done；
+Plaintext: sentfrommyiphone
 
-3.Playfair：       Done；
+1.Caesar：         **Done**；
+vhqwiurppblskrqh
+
+2.Monoalphabetic： **Done**；
+LTFZYKGDDNOHIGFT
+
+3.Playfair：       **Done**；
+QGTYLWKNNXFCINKH
 
 4.Vernam：	    	*None*；
 
-5.Row：			      Done；
+5.Row：			      **Done**；
+meeytpfhsmroonni
 
 6.Product：	   	*None*；
 

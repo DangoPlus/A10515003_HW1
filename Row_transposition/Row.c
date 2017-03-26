@@ -5,9 +5,9 @@ int main()
   int i,j,k,n=0,matrixLen,verticalLength;
   char key[10],tempChar;
   char matrix[10][10],plainText[50];
-  printf("Enter plain text : ");
+  printf("Please input plaintext: ");
   gets(plainText);
-  printf("Enter key : ");
+  printf("encrypted text: ");
   gets(key);
 
 
