@@ -32,8 +32,8 @@ int main()
 	scanf("%s", key);
 	char *cprText = encrypt(plainText, key);
 	printf("encrypted text：");
- 	printf("%s",cprText);
- 	printf("\n");
+	printf("%s",cprText);
+	printf("\n");
 	//puts();
 
 	return 0;
@@ -184,7 +184,7 @@ char *sortPlainText(char *text)
 	int len = (int)strlen(tmp);
 	if (len % 2 != 0) {
 		if (defaultValue != tmp[len - 1]) {
-				tmp[len] = defaultValue;
+			tmp[len] = defaultValue;
 		}
 		else {
 			tmp[len] = (defaultValue - 'A' + 1) % 26 + 'A';
